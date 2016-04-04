@@ -207,7 +207,8 @@ public class BigNumber {
 		}
 		}	
 	} 			
-BigNumber powerLevel2(BigNumber x,BigNumber n){
+//this function is under development
+	BigNumber powerLevel2(BigNumber x,BigNumber n){
 	long base=10;
 	BigNumber result;
 	int d=n.digit.size();
